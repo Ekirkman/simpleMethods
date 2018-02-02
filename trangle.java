@@ -8,7 +8,7 @@ public class trangle {
 		System.out.println("please enter the height and the base of your triangle : ");
 		double h = input.nextDouble();
 		double b = input.nextDouble();
-		System.out.println("The are of your triangle is : " + triangle(h, b));
+		System.out.println("The area of your triangle is : " + triangle(h, b));
 	}
 
 	public static double triangle(double h, double b) {
